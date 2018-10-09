@@ -1,0 +1,23 @@
+commit 861324c42152ec2c7937ce5156d6fc530deccea8
+Author: zivan <gojkoviczivan@gmail.com>
+Date:   Tue Oct 9 14:21:27 2018 +0200
+
+    deleted  stuff again
+
+commit 06c5126dd8d4f546ab6af0033dc30c9aef1e2905
+Author: zivan <gojkoviczivan@gmail.com>
+Date:   Tue Oct 9 14:19:05 2018 +0200
+
+    added stuff again
+
+commit 8c1c9d5c72735989b5c95d46997ff5767450a853
+Author: zivan <gojkoviczivan@gmail.com>
+Date:   Tue Oct 9 14:11:55 2018 +0200
+
+    added stuff again
+
+commit b4a6c342656e16b93a5cb586d93ee7c7e24c6f7c
+Author: zivan <gojkoviczivan@gmail.com>
+Date:   Tue Oct 9 13:58:41 2018 +0200
+
+    Created the file mars.txt
